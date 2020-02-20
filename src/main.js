@@ -22,30 +22,3 @@ function calcular() {
     
 }
 
-
-/*
-function calcular(){
-
-  let valor1 = document.querySelector("input.valor1");
-  
-  let valor2 = document.querySelector(".valor2");
-
-  let valor3 = document.querySelector(".value3");
-
-  let valor4 = document.querySelector(".valor4");
-  
-  let valorProjeto = parseInt(valor1.value)
-  let horasDiarias = parseInt(valor2.value)
-  let diasEfetivos = parseInt(valor3.value)
-  let diasFerias = parseInt(valor4.value);
-
-  let soma = valorProjeto + horasDiarias + diasEfetivos + diasFerias;
-  console.log(soma);
-  
-  
-  
-  let resultado = document.getElementById('result');
-  console.log(valorHora);
-  resultado.innerHTML = `Valor da hora trablhada ${valorHora}`;
-}
-*/
